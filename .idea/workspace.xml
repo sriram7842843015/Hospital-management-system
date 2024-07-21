@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectId" id="2da4MsmBeMCnCR3VT289qVIYLu7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,7 +29,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "F:/project/Hospital management system",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/puvva/Downloads/Hospital management system/Hospital management system/Hospital management system",
     "onboarding.tips.debug.path": "F:/project/Hospital management system/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
