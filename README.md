@@ -1,7 +1,4 @@
 # Hospital-management-system
-**Company**:CODETECH IT SOLUTIONS
-
-**ID**:CT4JP4501
 
 **Domain**:Java Programming
 
